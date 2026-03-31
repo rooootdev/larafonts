@@ -1,6 +1,6 @@
 {
-  "repo_name": "larafonts",
-  "repo_author": "roooot",
+  "repo_name": "customfonts",
+  "repo_author": "Raed3300",
   "repo_icon": "https://github.com/rooootdev.png",
   "fonts": [
     {
@@ -58,5 +58,9 @@
       "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/segoeui.ttf",
       "format": "truetype"
     }
+     {
+      "name": "Minecraft",
+      "url": "https://github.com/Raed3300/customfonts/raw/refs/heads/main/fonts/minecraft-font.ttf",
+      "format": "truetype"
+    }
   ]
-}
