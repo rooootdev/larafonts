@@ -58,5 +58,12 @@
       "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/fonts/segoeui.ttf",
       "format": "truetype"
     }
+  ],
+  "emojis": [
+    {
+      "name": "Twemoji",
+      "url": "https://github.com/rooootdev/larafonts/raw/refs/heads/main/emojis/twemoji.ttf",
+      "format": "truetype"
+    }
   ]
 }
